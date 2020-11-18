@@ -15,6 +15,13 @@ data stucture
 5.divide and conquer
 
 
+
+graph
+hashing
+heap sort
+trees
+bst
+
 done
 
 
