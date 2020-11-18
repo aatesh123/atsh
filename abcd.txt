@@ -1,0 +1,16 @@
+sorting algorithm
+1.merge sort
+2.insertion sort
+3.quick sort
+4.selection sort
+5.radix sort
+6.bubble sort
+
+data stucture
+1.greedy approch
+2.dynamic programming
+3.branch and bound
+4.backtracking
+5.divide and conquer
+
+
