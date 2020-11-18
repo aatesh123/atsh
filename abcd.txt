@@ -15,3 +15,6 @@ data stucture
 5.divide and conquer
 
 
+done
+
+
