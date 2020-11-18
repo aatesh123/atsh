@@ -5,6 +5,7 @@ sorting algorithm
 4.selection sort
 5.radix sort
 6.bubble sort
+7.counting sort
 
 data stucture
 1.greedy approch
